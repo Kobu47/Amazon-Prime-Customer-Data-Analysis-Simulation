@@ -1,0 +1,5 @@
+﻿Quarters,New_Customers,Lost_Customers,Customer_Churn_Rate,Customer_Retention_Rate
+Q1,1916,168,NULL,NULL
+Q2,384,705,40.3,59.7
+Q3,200,748,52.4,47.6
+Q4,0,668,76,24
