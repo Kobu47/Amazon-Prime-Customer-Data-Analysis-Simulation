@@ -25,7 +25,7 @@ Goal is to answer important questions for the company and to provide insights. S
 
 ## Calculations 
 
---The calculations were made in Ms Sql Server to simulate a usage of huge dataset so SQL would be a preferred way of working for optimizing performance. Most of the calculations were done here and you can find the Query file here [Click Here](https://github.com/Kobu47/Amazon-Prime-Customer-Analysis-Simulation/blob/main/Amazon_Prime_Data_Analysis_Query.sql). Since i used Tableau Public for the visualisation i couldn't connect to the SQL server directly so i just saved the results to these exact CSV files : [Churn and Retention Rates](https://github.com/Kobu47/Amazon-Prime-Customer-Analysis-Simulation/blob/main/Amazon_Prime_Churn_Retention_Rates.csv) , [Subscription Plan Basic Data](https://github.com/Kobu47/Amazon-Prime-Customer-Analysis-Simulation/blob/main/Subscription_Plan_Info.csv) and [Customer_Support_Interactions](https://github.com/Kobu47/Amazon-Prime-Customer-Analysis-Simulation/blob/main/Support_Interactions_Rating.csv) which was not used as a dataset in the end.
+--The calculations were made in Ms Sql Server to simulate a usage of huge dataset so SQL would be a preferred way of working for optimizing performance. Most of the calculations were done here and you can find the Query file [Here](https://github.com/Kobu47/Amazon-Prime-Customer-Analysis-Simulation/blob/main/Amazon_Prime_Data_Analysis_Query.sql). Since i used Tableau Public for the visualisation i couldn't connect to the SQL server directly so i just saved the results to these exact CSV files : [Churn and Retention Rates](https://github.com/Kobu47/Amazon-Prime-Customer-Analysis-Simulation/blob/main/Amazon_Prime_Churn_Retention_Rates.csv) , [Subscription Plan Basic Data](https://github.com/Kobu47/Amazon-Prime-Customer-Analysis-Simulation/blob/main/Subscription_Plan_Info.csv) and [Customer_Support_Interactions](https://github.com/Kobu47/Amazon-Prime-Customer-Analysis-Simulation/blob/main/Support_Interactions_Rating.csv) which was not used as a dataset in the end.
 
 ## Analysis
 
@@ -33,6 +33,6 @@ Goal is to answer important questions for the company and to provide insights. S
 
 ## Conclusion 
 
-A deeper alysis with more detailed data must be made to come up some answers as to why the the end of 2024 saw that huge of decline in Amazon's customer value. You can check out the interactive Dashboard here [Click Here]( https://public.tableau.com/app/profile/dimitris.kompouras/viz/Dashboard_17389112743540/AmazonPrimeSubscriptionCustomerAnalysis-2024)
+A deeper alysis with more detailed data must be made to come up some answers as to why the the end of 2024 saw that huge of decline in Amazon's customer value. You can check out the interactive Dashboard [Here]( https://public.tableau.com/app/profile/dimitris.kompouras/viz/Dashboard_17389112743540/AmazonPrimeSubscriptionCustomerAnalysis-2024)
 
 
