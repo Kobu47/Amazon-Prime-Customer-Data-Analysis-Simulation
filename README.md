@@ -33,6 +33,6 @@ Goal is to answer important questions for the company and to provide insights. S
 
 ## Conclusion 
 
-A deeper alysis with more detailed data must be made to come up some answers as to why the the end of 2024 saw that huge of decline in Amazon's customer value. You can check out the interactive Dashboard [Here]( https://public.tableau.com/app/profile/dimitris.kompouras/viz/Dashboard_17389112743540/AmazonPrimeSubscriptionCustomerAnalysis-2024)
+A deeper alysis with more detailed data must be made to come up some answers as to why the the end of 2024 saw that huge of decline in Amazon's customer value. You can check out the interactive Dashboard [Here]( https://public.tableau.com/app/profile/dimitris.kompouras/viz/Dashboard_17389112743540/AmazonPrimeSubscriptionCustomerAnalysis-2024). At the moment i recommend focusing not on getting customers but keeping them by trying to transition the monthly subscription users to yearly.
 
 
