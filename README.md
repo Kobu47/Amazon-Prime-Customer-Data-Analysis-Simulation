@@ -25,4 +25,4 @@ Goal is to answer important questions for the company and to provide insights. S
 
 ## Calculations 
 
---The calculations were made in Ms Sql Server to simulate a usage of huge dataset so SQL would be a preferred way of working for optimizing performance. Most of the calculations were done here and you can find the Querry file here: 
+--The calculations were made in Ms Sql Server to simulate a usage of huge dataset so SQL would be a preferred way of working for optimizing performance. Most of the calculations were done here and you can find the Querry file here [Click Here](https://github.com/Kobu47/Amazon-Prime-Customer-Analysis-Simulation/blob/main/Amazon_Prime_Data_Analysis_Query.sql). Since i used Tableau Public for the visualisation i couldn't connect to the SQL server directly so i just saved the results to these exact CSV files : 
